@@ -1,10 +1,16 @@
-# Bootstrap Tree View
+# Bootstrap5 Tree View
+
+魔改原版适配新的Bootstrap5版本，新增了部分特性。持续更新中~
 
 ---
 
-![Bower version](https://img.shields.io/bower/v/bootstrap-treeview.svg?style=flat)
-[![npm version](https://img.shields.io/npm/v/bootstrap-treeview.svg?style=flat)](https://www.npmjs.com/package/bootstrap-treeview)
-[![Build Status](https://img.shields.io/travis/jonmiles/bootstrap-treeview/master.svg?style=flat)](https://travis-ci.org/jonmiles/bootstrap-treeview)
+[![npm version](https://img.shields.io/npm/v/bootstrap5-treeview.svg?style=flat)](https://www.npmjs.com/package/bootstrap5-treeview)
+
+
+公众号 | 公众号 |
+------- | ------ | 
+![](https://gitee.com/deali/CodeZone/raw/master/images/coding_lab_logo.jpg) | ![](https://gitee.com/deali/CodeZone/raw/master/images/coding_lab_qr_code.jpg)   |
+
 
 A simple and elegant solution to displaying hierarchical tree structures (i.e. a Tree View) while leveraging the best that Twitter Bootstrap has to offer.
 
