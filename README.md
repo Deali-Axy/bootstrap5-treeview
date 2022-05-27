@@ -12,7 +12,18 @@
 ![](https://gitee.com/deali/CodeZone/raw/master/images/coding_lab_logo.jpg) | ![](https://gitee.com/deali/CodeZone/raw/master/images/coding_lab_qr_code.jpg)   |
 
 
-A simple and elegant solution to displaying hierarchical tree structures (i.e. a Tree View) while leveraging the best that Twitter Bootstrap has to offer.
+## 新增功能
+
+- 新增 `enableIndent` 开关，控制是否开启子菜单缩进
+- 重新设计 `list-group-item` 内的元素布局，可以见下图
+
+
+![](screenshot/new.png)
+
+
+原版介绍：
+
+>A simple and elegant solution to displaying hierarchical tree structures (i.e. a Tree View) while leveraging the best that Twitter Bootstrap has to offer.
 
 ![Bootstrap Tree View Default](https://raw.github.com/jonmiles/bootstrap-treeview/master/screenshot/default.PNG)
 
@@ -20,8 +31,8 @@ A simple and elegant solution to displaying hierarchical tree structures (i.e. a
 
 Where provided these are the actual versions bootstrap-treeview has been tested against.  
 
-- [Bootstrap v3.3.4 (>= 3.0.0)](http://getbootstrap.com/)
-- [jQuery v2.1.3 (>= 1.9.0)](http://jquery.com/)
+- [Bootstrap v5.1.3 (>= 5.0.0)](http://getbootstrap.com/)
+- [jQuery v3.6.0 (>= 3.0.0)](http://jquery.com/)
 
 
 ## Getting Started
