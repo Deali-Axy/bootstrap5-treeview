@@ -15,6 +15,7 @@
 ## 相关博客
 
 - [基于.NetCore开发博客项目 StarBlog - (8) 分类层级结构展示](https://www.cnblogs.com/deali/p/16307604.html)
+- [魔改了一下bootstrap-treeview组件，发布个NPM包体验一下](https://www.cnblogs.com/deali/p/16319425.html)
 - ...
 
 
