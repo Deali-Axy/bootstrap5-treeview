@@ -46,19 +46,13 @@ Where provided these are the actual versions bootstrap-treeview has been tested 
 
 ### Install
 
-You can install using bower (recommended):
+using npm:
 
 ```javascript
-$ bower install bootstrap-treeview
+$ npm install bootstrap5-treeview
 ```
 
-or using npm:
-
-```javascript
-$ npm install bootstrap-treeview
-```
-
-or [download](https://github.com/jonmiles/bootstrap-treeview/releases/tag/v1.2.0) manually.
+or [download](https://www.npmjs.com/package/bootstrap5-treeview) manually.
 
 
 
